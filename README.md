@@ -29,22 +29,22 @@
 ## Monthly statistics:
 ### Mean temperature
 #### monthly_mean_temperature.m
-### Heat index
+### Mean heat index
 #### monthly_mean_heat_index.m
 #
 ## Daily statistics:
-### Maximum and mean temperature
+### Maximum and mean temperatures
 #### dailyMaxMinT.m, dailyMaxT_max.m, dailyMaxT_mean.m, summer_daily_maxT.m, summer_daily_maxT_all.m
 ### Humidity
 #### Humidity_analysis.m
 #
-## Heat wave mitigation
+## Heat wave mitigation:
 #### sensitivity_analysis.m, sensitivity_analysis_less_hot_day.m, sensitivity_analysis_linear_relation.m
 #### sensitivity_analysis_plot.m, sensitivity_analysis_plot_2.m (box plots)
 #
-## Failure probability of power supply
+## Failure probability of power supply:
 ### Electricity systems
-#### *Components and a whole system failures:*
+#### *Components and a whole system failures*
 #### electric_analysis.m,electric_system_analysis.m, electric_fail_test.m, failure_probability.m, getGlobalx.m, Dynamic_analysis.m
-#### *Transmission line current-temperature relationship:*
+#### *Transmission line current-temperature relationship*
 #### Line_current.m, Line_temperature.m, q_c1_method.m, q_c2_method.m, q_cn_method.m
