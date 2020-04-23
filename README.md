@@ -4,7 +4,7 @@
 #### result_HW_A_D_AD_F.m (Heat wave amplitude_duration_annual duration_frequency)
 #### result_UHI.m (Urban heat island intensity)
 #
-## Extratc data from weather stations (nc files):
+## Extract data from weather stations (nc files):
 #### observation.m, observation2.m, missing_ratio.m
 #
 ## Heat wave amplitudes:
