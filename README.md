@@ -1,5 +1,5 @@
 # Heat Wave Analysis
-#### Contributor: Yating Zhang
+#
 #
 ## Extract data from WRF output files (nc files):
 #### result_HW_A_D_AD_F.m (Heat wave amplitude_duration_annual duration_frequency)
