@@ -1,6 +1,5 @@
 # Heat Wave Analysis
 #
-#
 ## Extract data from WRF output files (nc files):
 #### result_HW_A_D_AD_F.m (Heat wave amplitude_duration_annual duration_frequency)
 #### result_UHI.m (Urban heat island intensity)
