@@ -23,7 +23,7 @@
 ## First day of heat waves in a year:
 #### FirstDayofHW.m
 #
-## Model validation 
+## Model validation: 
 ### Compare simulations to observations
 #### validation.m, Validation1.m, Validation_2.m
 #
@@ -45,7 +45,7 @@
 #
 ## Failure probability of electric power system:
 ### Electricity system
-#### *Components and a whole system failures*
+#### *Components and system failures*
 #### electric_analysis.m,electric_system_analysis.m, electric_fail_test.m, failure_probability.m, getGlobalx.m, Dynamic_analysis.m
 #### *Transmission line current-temperature relationship*
 #### Line_current.m, Line_temperature.m, q_c1_method.m, q_c2_method.m, q_cn_method.m
