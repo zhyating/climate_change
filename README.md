@@ -8,7 +8,7 @@
 ## Extract data from weather stations (nc files):
 #### observation.m, observation2.m, missing_ratio.m
 #
-## Heat wave amplitudes:
+## Heat wave amplitude:
 ### Annual 
 #### result_HW_D3.m, result_HW_D4.m (WRF model Domains 3 and 4)
 ### Annual average
@@ -16,7 +16,7 @@
 ### Annual maximum
 #### result_HW_MaxA.m, result_HW_MaxA2.m (WRF model Domains 3 and 4)
 #
-## Heat wave frequencies and durations:
+## Heat wave frequency and duration:
 ### Annual average and standard deviation
 #### result_HW_MeanStd_F_D.m
 #
@@ -43,8 +43,8 @@
 #### sensitivity_analysis.m, sensitivity_analysis_less_hot_day.m, sensitivity_analysis_linear_relation.m
 #### sensitivity_analysis_plot.m, sensitivity_analysis_plot_2.m (box plots)
 #
-## Failure probability of power supply:
-### Electricity systems
+## Failure probability of electric power system:
+### Electricity system
 #### *Components and a whole system failures*
 #### electric_analysis.m,electric_system_analysis.m, electric_fail_test.m, failure_probability.m, getGlobalx.m, Dynamic_analysis.m
 #### *Transmission line current-temperature relationship*
